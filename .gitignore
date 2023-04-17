@@ -1,0 +1,15 @@
+
+*.iml
+*.xml
+dataset/mnist/t10k-labels-idx1-ubyte/t10k-labels.idx1-ubyte
+dataset/mnist/t10k-images-idx3-ubyte/t10k-images.idx3-ubyte
+dataset/mnist/train-images-idx3-ubyte/train-images.idx3-ubyte
+dataset/mnist/train-labels-idx1-ubyte/train-labels.idx1-ubyte
+*.h5
+model_weights/ANN_2_layer/keras_metadata.pb
+model_weights/ANN_2_layer/saved_model.pb
+model_weights/ANN_2_layer/variables/variables.data-00000-of-00001
+model_weights/ANN_2_layer/variables/variables.index
+model_weights/ANN_2_layer_wts.data-00000-of-00001
+model_weights/ANN_2_layer_wts.index
+model_weights/checkpoint
